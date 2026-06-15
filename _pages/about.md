@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student, Northeastern University | Music Neuroscience · Neuroimaging · Computational Modeling
 
