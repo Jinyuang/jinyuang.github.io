@@ -6,7 +6,7 @@ subtitle: PhD Student, Northeastern University | Music Neuroscience · Neuroimag
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jinyu_wang.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>MIND Lab</p>
